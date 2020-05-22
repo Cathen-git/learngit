@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Image-Classification-Using-SVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Image-gender-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImageClassificationKNN-Softmax-SVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KNN-Classifier" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+https://github.com/manuchopra/ImageClassificationKNN-Softmax-SVM
+
+https://github.com/Abhishek-Arora/Image-Classification-Using-SVM.git
+
+https://github.com/laz08/Image-gender-classification.git
+
+https://github.com/tarunkolla/KNN-Classifier.git
